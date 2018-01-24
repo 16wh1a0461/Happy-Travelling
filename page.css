@@ -1,0 +1,68 @@
+
+#body{
+ background-color: white;
+ height:100%;
+}
+
+
+#divleft {
+float: left;
+width: 50%;
+height: 100%;
+border-radius: 10px;
+}
+
+#image{
+width: 100%;
+height: 100%;
+border-radius: 10px;
+}
+text{
+font-size:30px;
+}
+#divright{
+ background-color:lightblue;
+float: right;
+width: 50%;
+height: 100%;
+border-radius: 10px;
+}
+#right {
+    width: 60%;
+    height: 90%;
+ background-color: lightblue;
+    margin: 0px 0px 0px 146px;
+}
+.fname {
+    height: 35px;
+    width: 100%;
+    margin-top: -35px;
+    margin-left: 65px;
+}
+.submit{
+   height: 35px;
+    width: 45%;
+    margin-left: 94px;
+    margin-top: 10px;
+  
+}
+input[type="submit"] {
+    margin-top: 15px;
+    width: 35px;
+    width: 100%;
+    height: 100%;
+    background-color:lightgreen;
+
+}
+
+input[type="number"] {
+    width: 28%;
+    height: 7%;
+}
+#error{
+width:50%;
+height:30%;
+margin: 2px 0px 0px 120px;
+color:red;
+font-weight:bold;
+}
